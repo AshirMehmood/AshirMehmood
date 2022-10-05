@@ -4,13 +4,13 @@
 - 🕸️ I am a web developer  
   
 
-- 🍥I like to develop user friendly sites  
+- I am currently learning data structures and algorithms
   
 
-- 💻I write html,css and javascript(learning)  
+- 💻I am looking for a person/team to work together on open source and hackathons together, reach me on ashzafar55@gmail.com 
   
 
-- 👨‍💻I like learning new things,I am a continuous learner and analytical person 
+- 👨‍💻I like learning new things and technologies,I am a continuous learner. 
   
 
 🌠facts About me
