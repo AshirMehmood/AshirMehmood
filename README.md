@@ -22,18 +22,9 @@
 
 🌠interested in   a lot  but a few are mentioned
   
-  
-
-- React js  
-  
-
-- Node js  
-  
-
-- Express js  
-  
-
-- MongoDb  
+  MERN stack 
+  Python/AI
+  little bit of game design
   
 ![gif](https://user-images.githubusercontent.com/107363675/194138489-ac8dcd31-cfea-4ff6-9259-cf898e8fe0bf.gif)
 
