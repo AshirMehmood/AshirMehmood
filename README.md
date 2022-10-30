@@ -15,16 +15,15 @@
 
 🌠facts About me
   
-  
-
 ⌨️ Coding is my passion and profession and I Love it more than anything  
   
-
+ I love being creative and technology fascinates me so much, I love building logic and learn about various tech stacks,Web 3.0 and AI fascinates me, I like reading books and communicating with people and building my network
+ 
 🌠interested in   a lot  but a few are mentioned
   
   MERN stack <br>
   Python/AI <br>
-  little bit of game design
+  little bit of game development
   
 ![gif](https://user-images.githubusercontent.com/107363675/194138489-ac8dcd31-cfea-4ff6-9259-cf898e8fe0bf.gif)
 
