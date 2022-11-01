@@ -77,8 +77,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AshirMehmood&show_icons=true&count_private=true&hide_border=true" align="center" />
- ![@aashiir12's Holopin board](https://holopin.me/aashiir12)](https://holopin.io/@aashiir12)
-
   </div>  
 
 <br/>  
