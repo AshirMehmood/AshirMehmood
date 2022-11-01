@@ -68,7 +68,6 @@
 <a href="https://www.youtube.com/channel/UCP8VT8NMarHI3l3hdXAvytg ">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  [![@aashiir12's Holopin board](https://holopin.me/aashiir12)](https://holopin.io/@aashiir12)
 
 </div>  
   
@@ -77,7 +76,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AshirMehmood&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AshirMehmood&show_icons=true&count_private=true&hide_border=true" align="center" />
+ ![@aashiir12's Holopin board](https://holopin.me/aashiir12)](https://holopin.io/@aashiir12)
+
+  </div>  
 
 <br/>  
 
