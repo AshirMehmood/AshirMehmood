@@ -56,7 +56,7 @@
 <div>
 <br/>  
 
-
+<a href="[![@aashiir12's Holopin board](https://holopin.me/aashiir12)](https://holopin.io/@aashiir12)">
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/AshirMehmood" target="_blank">
@@ -88,7 +88,7 @@
 <br/>  
 
   
-<div>[![@aashiir12's Holopin board](https://holopin.me/aashiir12)](https://holopin.io/@aashiir12)</div>
+
 <br/>  
 
 <div align="center">
