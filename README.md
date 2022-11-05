@@ -88,7 +88,7 @@
 <br/>  
 
   
-
+<div>[![@aashiir12's Holopin board](https://holopin.me/aashiir12)](https://holopin.io/@aashiir12)</div>
 <br/>  
 
 <div align="center">
@@ -104,8 +104,6 @@
 
 
 <br />
-  <div>[![@aashiir12's Holopin board](https://holopin.me/aashiir12)](https://holopin.io/@aashiir12)
-  </div>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
