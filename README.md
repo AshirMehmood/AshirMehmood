@@ -28,6 +28,7 @@
 ![gif](https://user-images.githubusercontent.com/107363675/194138489-ac8dcd31-cfea-4ff6-9259-cf898e8fe0bf.gif)
 
 <br/>  
+<a href="[![@aashiir12's Holopin board](https://holopin.me/aashiir12)](https://holopin.io/@aashiir12)">
 
 
 ## My Skill Set  
