@@ -1,7 +1,7 @@
 ## <div align="center">Hi, I am Ash </div>  
   
 
-- 🕸️ I am a web developer  
+- 🕸️ I am an aspiring  developer  
   
 
 - I am currently learning data structures and algorithms
@@ -17,7 +17,7 @@
   
 ⌨️ Coding is my passion and profession and I Love it more than anything  
   
- I love being creative and technology fascinates me so much, I love building logic and learn about various tech stacks,Web 3.0 and AI fascinates me, I like reading books and communicating with people and building my network
+I love being creative and technology fascinates me so much, I love building logic and learn about various tech stacks, AI fascinates me, I like reading books and communicating with people and building my network
  
 🌠interested in   a lot  but a few are mentioned
   
