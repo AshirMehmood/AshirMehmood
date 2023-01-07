@@ -21,7 +21,7 @@ I love being creative and technology fascinates me so much, I love building logi
  
 🌠interested in   a lot  but a few are mentioned
   
-  React/Python/Flask-Django <br>
+  React/Python-stack <br>
   AI <br>
   little bit of game development
   
