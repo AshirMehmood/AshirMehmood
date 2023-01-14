@@ -19,11 +19,11 @@
   
 I love being creative and technology fascinates me so much, I love building logic and learn about various tech stacks, AI fascinates me, I like reading books and communicating with people and building my network
  
-🌠interested in   a lot  but a few are mentioned
+🌠interested in a lot, a few are mentioned
   
-  React/Python-stack <br>
-  AI <br>
-  little bit of game development
+  React/Python stack(ros,flask etc) and AI <br>
+   <br>
+  little bit of 2d game development
   
 ![gif](https://user-images.githubusercontent.com/107363675/194138489-ac8dcd31-cfea-4ff6-9259-cf898e8fe0bf.gif)
 [![@aashiir12's Holopin board](https://holopin.me/aashiir12)](https://holopin.io/@aashiir12)
