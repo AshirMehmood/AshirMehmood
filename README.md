@@ -17,11 +17,11 @@
   
 ⌨️ Coding is my passion and profession and I Love it more than anything  
   
-I love being creative and technology fascinates me so much, I love building logic and learn about various tech stacks, AI fascinates me, I like reading books and communicating with people and building my network
+✌ I love being creative and technology fascinates me so much, I love building logic and learn about various tech stacks, AI and web3 fascinate me, I like reading    books and communicating with people and building my network
  
 🌠interested in a lot, a few are mentioned
   
-  React/Python stack(ros,flask etc) and AI <br>
+  full stack dev/Python stack(ros,flask etc) and AI <br>
    <br>
   little bit of 2d game development
   
