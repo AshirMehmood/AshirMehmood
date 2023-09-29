@@ -2,19 +2,14 @@
   
 
 - aspiring software developer and computer scientist.
-- I am currently learning data structures and algorithms.
-- 💻I am looking for a person/team to work together on open source and hackathons together, reach me on ashzafar55@gmail.com.
 - 👨‍💻I like learning new things and technologies,I am a continuous learner.
-- ⌨️ Coding is my passion and profession and I Love it more than anything.  
+- ⌨️ Open source development is my passion.  
   
 
-🌠My Skill Set
+🌠 learning Skill Set
   
- python, javascript, cross-platfrom app development,/ Linux, offsec aspirant <br>
- DS algos<br>
- Backend<br>
- Databases<br>
- OOPS<br>
+ python, javascript, cross-platfrom app development/ Linux, offsec aspirant <br>
+ Learning: DS algos and core subjects
    <br>
 
 ![gif](https://user-images.githubusercontent.com/107363675/194138489-ac8dcd31-cfea-4ff6-9259-cf898e8fe0bf.gif)
@@ -30,23 +25,17 @@
 
 
 
-### Web-dev
   
 <div align="center" style="padding-left:5px">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-
-</div>  
-
-
-
-### General  
 <div align="center" style="padding-left:5px">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
+</div>  
 
 <div>
 <br/>  
