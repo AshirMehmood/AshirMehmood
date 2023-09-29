@@ -1,27 +1,22 @@
 ## <div align="center">Hi, I am Ash </div>  
   
 
-- aspiring software developer and computer scientist
+- aspiring software developer and computer scientist.
+- I am currently learning data structures and algorithms.
+- 💻I am looking for a person/team to work together on open source and hackathons together, reach me on ashzafar55@gmail.com.
+- 👨‍💻I like learning new things and technologies,I am a continuous learner.
+- ⌨️ Coding is my passion and profession and I Love it more than anything.  
   
 
-- I am currently learning data structures and algorithms
+🌠My Skill Set
   
 
-- 💻I am looking for a person/team to work together on open source and hackathons together, reach me on ashzafar55@gmail.com 
   
-
-- 👨‍💻I like learning new things and technologies,I am a continuous learner. 
-  
-
-🌠facts About me
-  
-⌨️ Coding is my passion and profession and I Love it more than anything  
-  
-✌ I love being creative and technology fascinates me so much, I love building logic and learning about various tech stacks.
+ python, javascript, cross-platfrom app development,/ Linux, offsec aspirant <br>
+ DS algos
+ Backend
+ Databases
  
-🌠interested in a lot, a few are mentioned
-  
-  full stack dev/Python/cross platform app development/javascript/offsec aspirant <br>
    <br>
 
 ![gif](https://user-images.githubusercontent.com/107363675/194138489-ac8dcd31-cfea-4ff6-9259-cf898e8fe0bf.gif)
