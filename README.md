@@ -1,7 +1,7 @@
 ## <div align="center">Hi, I am Ash </div>  
   
 
-- 🕸️ I am an aspiring  developer  
+- aspiring software developer and computer scientist
   
 
 - I am currently learning data structures and algorithms
@@ -17,14 +17,13 @@
   
 ⌨️ Coding is my passion and profession and I Love it more than anything  
   
-✌ I love being creative and technology fascinates me so much, I love building logic and learn about various tech stacks, AI and web3 fascinate me, I like reading    books and communicating with people and building my network
+✌ I love being creative and technology fascinates me so much, I love building logic and learning about various tech stacks.
  
 🌠interested in a lot, a few are mentioned
   
-  full stack dev/Python stack(ros,flask etc) and AI <br>
+  full stack dev/Python/cross platform app development/javascript/offsec aspirant <br>
    <br>
-  little bit of 2d game development
-  
+
 ![gif](https://user-images.githubusercontent.com/107363675/194138489-ac8dcd31-cfea-4ff6-9259-cf898e8fe0bf.gif)
 [![@aashiir12's Holopin board](https://holopin.me/aashiir12)](https://holopin.io/@aashiir12)
 
