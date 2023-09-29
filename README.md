@@ -10,13 +10,11 @@
 
 🌠My Skill Set
   
-
-  
  python, javascript, cross-platfrom app development,/ Linux, offsec aspirant <br>
- DS algos
- Backend
- Databases
- 
+ DS algos<br>
+ Backend<br>
+ Databases<br>
+ OOPS<br>
    <br>
 
 ![gif](https://user-images.githubusercontent.com/107363675/194138489-ac8dcd31-cfea-4ff6-9259-cf898e8fe0bf.gif)
